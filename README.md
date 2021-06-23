@@ -1,7 +1,8 @@
 ![Banner](https://user-images.githubusercontent.com/71934681/123122789-9951b480-d446-11eb-8e0f-9c55a645c1cb.png)
 
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Koketso Madise and i am a software developer/software tester. I'm from South Africa, living in Pretoria. You can find me on Twitter, or on LinkedIn.
 <!--
 **KoketsoMadise/KoketsoMadise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
