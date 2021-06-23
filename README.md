@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Koketso Madise and i am a software developer/software tester. I'm from South Africa, living in Pretoria. You can find me on Twitter, or on LinkedIn.
+My name is Koketso Madise and i'm a Systems Developer graduate. I'm from South Africa, living in Pretoria. You can find me on Twitter, or on LinkedIn.
 <!--
 **KoketsoMadise/KoketsoMadise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
